@@ -1,7 +1,7 @@
 var process = require("process");
 
 console.log("hello world");
-var a = "ashish";
+var a = "ashit";
 var b = "sharma";
 var result = a + " " + b ;
 console.log(result);
