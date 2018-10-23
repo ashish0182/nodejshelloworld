@@ -9,7 +9,7 @@ var b = "sharma";
 var result = a + " " + b ;
 console.log(result);
 var p = 1000;
-var r = 50;
+var r = 500;
 var t = 100;
 
 //calculating S.I
