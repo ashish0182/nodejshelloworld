@@ -8,7 +8,7 @@ var b = "sharma";
 //concat operator +
 var result = a + " " + b ;
 console.log(result);
-var p = 100;
+var p = 1000;
 var r = 50;
 var t = 100;
 
